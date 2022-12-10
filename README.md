@@ -1,5 +1,5 @@
 # Jdbc-upgrad-demo
-```
+```java
 import java.sql.*;
 
 public class JDBCdemo {
